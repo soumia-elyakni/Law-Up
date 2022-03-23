@@ -1,5 +1,5 @@
 
-Law-Up est une application qui permet au gens de loi à se connecter avec des nouveaux clients,
+Law-Up est une application qui permet au juristes à se connecter avec des nouveaux clients,
 Il permet a tous de chercher un Avocat, un Notaire ou un conseils juridiques.
 Pour créer un compte, il faut spécifier votre profession, (Avocat, Notaire ou conseils juridique…)
 (Si Avocat il faut spécifier les spécialités.)
