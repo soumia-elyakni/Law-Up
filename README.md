@@ -1,8 +1,8 @@
 
 Al-Qanony est une application de communication entre les juristes et les clients, 
-où ils peuvent echanger des messages, voir les actualités du loi, et précisez des rendez-vous.
+où ils peuvent echanger des messages, voir les actualités de la loi, et prendre des rendez-vous.
 
-==> Un juriste peut créer un compte par son compte google ou linkdIn, ou par e-mail en remplissant une formulaire d'inscription :
+==> Un juriste peut créer un compte directement à l'aide de son profile sur Google, Linkedin, ou par e-mail en remplissant un formulaire d'inscription :
 E-mail, Téléphone, Nom et Prénom, numero de CIN, villes de travail.
 la deuxieme étape d'inscription est d'Importer la photo de CIN et la photo de la carte d'identité professionnelle, et une photo d'identité.
 
@@ -26,7 +26,7 @@ la deuxieme étape d'inscription est d'Importer la photo de CIN et la photo de l
 
 
 
-==> Un client peut créer un compte par un de ses comptes (google, Facebook, linkdIn), ou par e-mail ou numéro de téléphone.
+==> Un client peut créer un compte directement à l'aide de son profile sur Google, Linkedin ou Facebook, ou par e-mail ou numéro de téléphone.
 
 Formulaire d'inscription : 
 E-mail / Numero de téléphone, Nom et Prénom, numero de CIN, photo de CIN, Profession, Ville de résidence.
